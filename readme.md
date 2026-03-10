@@ -1,1 +1,0 @@
-This project will demonstrate the basics (literal basics BTW) of HTML. Basically I'll be ~copying~ using properly stuff in order to make a website related to cookery.
